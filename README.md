@@ -1,4 +1,4 @@
-# generate_hosts
+# generate_hosts_Module
 
 A [NetExec](https://github.com/Pennyw0rth/NetExec) module that automatically generates a hosts file from SMB scan results, mapping IP addresses to hostnames discovered during authentication.
 
